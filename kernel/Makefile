@@ -14,7 +14,7 @@ $(info -- MDIR: $(MDIR))
 # compliant to last upstream kernel change as of 96770df
 CFLAGS_ksu.o += -DKSU_VERSION=32693
 
-KSU_PACKAGE_NAME := me.weishu.kernelsu
+KSU_PACKAGE_NAME := me.mordea
 KSU_EXPECTED_SIZE := 0x033b
 KSU_EXPECTED_HASH := c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6
 
